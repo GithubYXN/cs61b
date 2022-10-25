@@ -23,7 +23,7 @@ public class Collatz {
         }
         System.out.println();
         System.out.println("Test");
-        /** dwwd **/    
+        /** dwwd **/
     }
 }
 
